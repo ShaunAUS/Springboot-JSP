@@ -1,6 +1,6 @@
 # Springboot-JSP
 
-- SpringBoot 를 처음 시작 할때 SpringBOot + JSP 를 학습 하였습니다.
+- SpringBoot 를 처음 시작 할때 SpringBoot + JSP 를  제일 먼저 학습 하였습니다.
 
 - SpringBoot + JSP 연습 공간입니다.
 
